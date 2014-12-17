@@ -1,0 +1,63 @@
+<ACROSS PUZZLE>
+<TITLE>
+     Crossword
+<AUTHOR>
+     Across Lite *.txt file Generator
+<COPYRIGHT>
+     GPL
+<SIZE>
+     15x15
+<GRID>
+ASTROLABIO.ALUD
+S.E.R.S.N.F.O.I
+CINTA.COFRADIAS
+E.I.D.O.A.U.N.C
+TOSTON.AMANSADO
+A.T.R.C.E.O.S.L
+.TABACO..ASE..O
+O.S...L.S...U.S
+R..RAP..OSCURA.
+F.P.D.C.R.H.D.S
+EVAPORAR.CARIBE
+B.R.R.M.L.R.M.M
+RECONDITO.LIBIA
+E.H.O.O.O.A.R.N
+SOEZ.INTRINSECA
+<ACROSS>
+     Sextante revela estrella con morro (10)
+     Derrumbe de bienestar al perder la cabeza (4)
+     Compromiso con Polo resulta en cordón (5)
+     Hermandades de tocados circumnavegan bahía interminable (9)
+     Esconde sus cantos, tonadas – qué fastidio! (6)
+     Hombre inglés en barbacoa queda domesticado (8)
+     Se fuma palo que incluye a las primeras (6)
+     Aquella volvió y la cociné (3)
+     Dos regresan con música moderna (3)
+     Negra se alivia después de aplicar puntos (6)
+     Vaporizar a la primera mujer con fósforo y rezar (8)
+     En ese mar hay espacio para incluir a la mitad de Bari! (6)
+     Lejano cerdito no revienta (9)
+     Bebe con uno en país africano (5)
+     Grosero suena a seso magullado (4)
+     Esencial y de moda esa tonada interminable y marchita (10)
+<DOWN>
+     Mástil con carbón y punto para ermitaño (6)
+     Deportistas con las cabezas llenas de nitrógeno singular (8)
+     Reza, mujer! Qué charlatana! (7)
+     Esa cosa podrida me lo produce! (4)
+     Ni me enloquezca alrededor de esa nota, depravado! (6)
+     Con telas atrapa uno de esos peces de río (6)
+     Astro se remonta bajo anillo de rebeldes (8)
+     Nota ciertos personajes mitológicos (6)
+     Casi demente sube con la de bruselas (3)
+     Joyeros de febreros fragorosos (8)
+     Monja devuelve flor interminable (3)
+     Tejido de ciudad sumeria, cuéntame, con bromo? (8)
+     Arreglo de amo rondando el norte (6)
+     Conversan sobre gases que circundan alar derruido (7)
+     Remiendo de duo revolucionario (6)
+     A mí, con estrellar ese furgón (6)
+     Surge bajo punto a los 7 días (6)
+     Elogio de olor nauseabundo (4)
+<NOTEPAD>
+Good luck
